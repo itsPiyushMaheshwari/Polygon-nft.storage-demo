@@ -1,3 +1,3 @@
 # Polygon and nft.storage basic project
- 
-Play in the world of filecoin
+
+Tutorial: https://docs.polygon.technology/docs/develop/nftstorage
